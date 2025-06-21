@@ -100,7 +100,7 @@ Model eğitimi için Jupyter notebook dosyalarını kullanabilirsiniz:
 
 ## Önemli Notlar
 
-- `dataset` altındaki `images` ve `labels` klasörleri .gitignore ile hariç tutulmuştur (büyük boyut nedeniyle).
+- `dataset` altındaki `images` ve `labels` klasörleri .gitignore ile hariç tutulmuştur (büyük boyut nedeniyle)(çalışmak isterseniz bana ulaşabilirsiniz).
 - Model ağırlıkları ve eğitim sonuçları için `models/` ve `yolo_results/weights/` klasörlerine bakınız.
 - Park slotlarının koordinatları `config/slotlar_camX.json` dosyalarında tanımlanır.
 - Büyük dosyalar (model ağırlıkları, videolar) Git LFS ile yönetilmektedir.
