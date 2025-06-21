@@ -1,0 +1,14 @@
+# Model ağırlıkları
+*.pt filter=lfs diff=lfs merge=lfs -text
+
+# Video dosyaları
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Büyük görsel dosyaları
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+
+# Dataset dosyaları (eğer dahil edilecekse)
+*.yaml filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text 

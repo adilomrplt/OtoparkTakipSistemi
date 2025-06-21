@@ -1,0 +1,14 @@
+ultralytics==8.0.208
+torch>=2.0.0
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+PyQt5
+pyqt5-tools
+
+#pip install -r requirements.txt
+#pip show ultralytics  ile güncel sürüm ögrenilebilir
