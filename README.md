@@ -107,6 +107,13 @@ Model eğitimi için Jupyter notebook dosyalarını kullanabilirsiniz:
 
 ---
 
+
+###  Ekran Görüntüleri
+
+![1](img/1.png)
+![2](img/2.png)
+![3](img/3.png)
+
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
